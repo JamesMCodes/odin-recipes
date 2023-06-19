@@ -1,0 +1,1 @@
+This is a simple project showcasing my HTML skills.
